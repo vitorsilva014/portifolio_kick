@@ -10,20 +10,12 @@ Paleta de coress:
 
 Fontes Utilizadas: Open Sans
 
-Layout do site:
-
-Imagens Atualizadas do sitee.
-
-![Capsitew](https://user-images.githubusercontent.com/92480034/159100089-cb018758-24f1-40dd-beff-f0ba9f6296c8.PNG)
-
-![CapsitewII](https://user-images.githubusercontent.com/92480034/159100094-56d9ae44-ae87-44dc-8ce4-fd35f413f5e7.PNG)
-
-![CapsiteIII](https://user-images.githubusercontent.com/92480034/159100098-4e125bba-216e-42b5-8f9d-1066db61350d.PNG)
-
-Fiz algumas leves alterações pois formatei o computador e precisei refazer do zero.
-
-Link do driv:
+Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one WP migration:
 https://drive.google.com/drive/folders/10jHTOFMWPJJSn3GhIoWyZy-SMU-jnfLQ?usp=sharing
 
-Formulario que estou criando 
-![image](https://user-images.githubusercontent.com/92480034/160317662-f69a5641-b352-48cb-acba-3a98c47ffeeb.png)
+Link do site:  http://vitor-oliveira.soukick.com.br/inicio/
+
+PDF: [pdf24_images_merged.pdf](https://github.com/vitorsilva014/portifolio_kick/files/8367040/pdf24_images_merged.pdf)
+
+Layout do site:
+![Uploading projetofi.PNG…]()
