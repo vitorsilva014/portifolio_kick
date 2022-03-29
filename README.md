@@ -16,6 +16,3 @@ https://drive.google.com/drive/folders/10jHTOFMWPJJSn3GhIoWyZy-SMU-jnfLQ?usp=sha
 Link do site:  http://vitor-oliveira.soukick.com.br/inicio/
 
 PDF: [pdf24_images_merged.pdf](https://github.com/vitorsilva014/portifolio_kick/files/8367040/pdf24_images_merged.pdf)
-
-Layout do site:
-![Uploading projetofi.PNG…]()
