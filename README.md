@@ -20,4 +20,9 @@ PDF: [pdf24_images_merged.pdf](https://github.com/vitorsilva014/portifolio_kick/
 Seção 1:
 ![image](https://user-images.githubusercontent.com/92480034/161389117-40e20085-c67b-4ca2-b304-20ff91b9c203.png)
 
+Seção 2:
+![image](https://user-images.githubusercontent.com/92480034/161389144-4831889f-f7bb-4902-ae50-aab955bbfde2.png)
+
+
+
 
